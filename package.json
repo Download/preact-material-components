@@ -1,0 +1,22 @@
+{
+  "name": "preact-material-components",
+  "version": "0.0.1",
+  "description": "Material Design Components for Preact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download/preact-material-components.git"
+  },
+  "keywords": [
+    "Preact"
+  ],
+  "author": "Stijn de Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/download/preact-material-components/issues"
+  },
+  "homepage": "https://github.com/download/preact-material-components#readme"
+}
